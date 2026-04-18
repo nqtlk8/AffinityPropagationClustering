@@ -6,7 +6,7 @@ Dự án này tập trung vào việc phân nhóm khách hàng dựa trên hành
 Việc xác định chiến lược tiếp thị phù hợp cho từng phân khúc khách hàng là yếu tố then chốt để tối ưu doanh thu và trải nghiệm người dùng. Dự án sử dụng các kỹ thuật học máy không giám sát (Unsupervised Learning) để tự động phân nhóm khoảng 1000 chủ thẻ tín dụng đang hoạt động dựa trên 4 biến hành vi.
 
 ## 2. Dữ liệu (Dataset)
-Bộ dữ liệu tóm tắt hành vi sử dụng của khoảng 900 khách hàng với các thông tin chi tiết như sau:
+Bộ dữ liệu tóm tắt hành vi sử dụng của khoảng 9000 khách hàng với các thông tin chi tiết như sau:
 
 | Tên biến | Mô tả |
 | :--- | :--- |
